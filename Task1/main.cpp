@@ -26,6 +26,10 @@ arrays to store the final number for simplicity:
 
 https://www.geeksforgeeks.org/writing-power-function-for-large-numbers/
 
+Any ongoing development captured at this repository:
+https://github.com/ajjensen/RL_Assessment
+
+
 */
 
 #include <iostream>
